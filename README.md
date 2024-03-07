@@ -3,7 +3,7 @@
 - While PostgreSQL is firmly rooted in the SQL tradition, it does have some features that bring it closer to the NoSQL world. For instance, it supports JSON data types and has functions for working with semi-structured data. This allows developers to store and query data in a more flexible, schema-less manner, which is a characteristic often associated with NoSQL databases.
 - So, while PostgreSQL is primarily SQL-based, it offers some features that provide a bridge between SQL and NoSQL paradigms, making it a versatile choice for a variety of applications and data models. 
 
--ACID Compliance:
+- ACID Compliance:
 PostgreSQL adheres to the principles of ACID (Atomicity, Consistency, Isolation, Durability), ensuring reliable and transactionally consistent operations. This is crucial for applications requiring data integrity, such as financial systems and enterprise-level applications.
 
 - Extensibility:
@@ -11,3 +11,6 @@ One of PostgreSQL's strengths is its extensibility. It supports a wide range of 
 
 -Scalability:
 PostgreSQL is designed to scale vertically and horizontally. Through techniques like table partitioning, parallel processing, and support for clustering solutions, it can handle large datasets and high-traffic applications.
+
+- Query:
+In PostgreSQL, queries are constructed using the Structured Query Language (SQL). SQL is a powerful and standardized language for interacting with relational databases, and PostgreSQL provides a comprehensive set of features and syntax for querying and manipulating data.
