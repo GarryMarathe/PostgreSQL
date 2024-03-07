@@ -9,7 +9,7 @@ PostgreSQL adheres to the principles of ACID (Atomicity, Consistency, Isolation,
 - Extensibility:
 One of PostgreSQL's strengths is its extensibility. It supports a wide range of data types, indexing options, and functions. Additionally, users can create custom data types, operators, and functions, allowing for a high degree of flexibility in modeling and processing data.
 
--Scalability:
+- Scalability:
 PostgreSQL is designed to scale vertically and horizontally. Through techniques like table partitioning, parallel processing, and support for clustering solutions, it can handle large datasets and high-traffic applications.
 
 - Query:
