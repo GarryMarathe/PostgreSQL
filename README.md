@@ -1,1 +1,5 @@
-
+## PostgreSQL
+- PostgreSQL, often referred to as "Postgres," is a powerful open-source relational database management system (RDBMS) known for its robustness, extensibility, and standards compliance. PostgreSQL is generally classified as a relational database management system (RDBMS), which falls under the SQL (Structured Query Language) category. It follows the principles of a traditional relational database, organizing data into tables with rows and columns and using SQL for querying and manipulation.
+- While PostgreSQL is firmly rooted in the SQL tradition, it does have some features that bring it closer to the NoSQL world. For instance, it supports JSON data types and has functions for working with semi-structured data. This allows developers to store and query data in a more flexible, schema-less manner, which is a characteristic often associated with NoSQL databases.
+- So, while PostgreSQL is primarily SQL-based, it offers some features that provide a bridge between SQL and NoSQL paradigms, making it a versatile choice for a variety of applications and data models. 
+  
