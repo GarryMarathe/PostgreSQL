@@ -14,3 +14,12 @@ PostgreSQL is designed to scale vertically and horizontally. Through techniques 
 
 - Query:
 In PostgreSQL, queries are constructed using the Structured Query Language (SQL). SQL is a powerful and standardized language for interacting with relational databases, and PostgreSQL provides a comprehensive set of features and syntax for querying and manipulating data.
+
+
+
+- Set up Backend with Django and PostgreSQL:
+Follow the steps mentioned earlier to set up Django with PostgreSQL. Ensure that your Django application is configured to connect to your PostgreSQL database.
+
+- Create API Endpoints:
+Using Django views and Django REST Framework (if you're building a RESTful API), create API endpoints that allow your frontend to perform CRUD (Create, Read, Update, Delete) operations on your PostgreSQL database.
+
