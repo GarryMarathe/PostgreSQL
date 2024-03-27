@@ -23,3 +23,8 @@ Follow the steps mentioned earlier to set up Django with PostgreSQL. Ensure that
 - Create API Endpoints:
 Using Django views and Django REST Framework (if you're building a RESTful API), create API endpoints that allow your frontend to perform CRUD (Create, Read, Update, Delete) operations on your PostgreSQL database.
 
+- Handle CORS (Cross-Origin Resource Sharing):
+If your frontend and backend are hosted on different domains, you'll need to handle CORS to allow requests from your frontend to your backend API. You can use Django CORS headers or middleware to handle CORS-related issues.
+
+- Implement Authentication and Authorization (optional):
+If your application requires user authentication and authorization, implement it in your Django backend. This might involve using Django's built-in authentication system or third-party libraries like Django REST Framework JWT for token-based authentication.
