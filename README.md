@@ -28,3 +28,12 @@ If your frontend and backend are hosted on different domains, you'll need to han
 
 - Implement Authentication and Authorization (optional):
 If your application requires user authentication and authorization, implement it in your Django backend. This might involve using Django's built-in authentication system or third-party libraries like Django REST Framework JWT for token-based authentication.
+
+- Frontend Development:
+Develop your frontend application using a frontend framework like React, Vue.js, or Angular. Use JavaScript or TypeScript to make HTTP requests to your Django backend API endpoints.
+
+- HTTP Requests:
+In your frontend application, use libraries like Axios or the Fetch API to make HTTP requests to your Django backend API endpoints. These requests can include fetching data from the database, submitting form data, or performing other actions.
+
+- Handle Responses:
+Handle responses received from the backend API in your frontend application. Update the UI based on the data received from the backend, and handle any errors that occur during the request.
